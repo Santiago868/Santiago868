@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 When i'm developing front end features to helo you get sick gainz at Redcon1. I am hacking away in web3. 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,php,nextjs,tailwindcss)](https://skillicons.dev)
