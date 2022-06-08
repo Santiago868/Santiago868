@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello There 👋
 
 <!--
 **Santiago868/Santiago868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+When i'm developing front end features to helo you get sick gainz at Redcon1. I am hacking away in web3. 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,php)](https://skillicons.dev)
