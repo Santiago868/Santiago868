@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 When i'm not developing building the best website to buy sick gainz from. I am hacking away in web3. 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,php,nextjs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,php,nextjs,tailwindcss,solidity)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago868&layout=compact&theme=dark&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
