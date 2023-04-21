@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-When i'm not developing building the best website to buy sick gainz from, I'm hacking away in web3. 
 
   <a href="#">[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,php,nextjs,tailwindcss,solidity)](https://skillicons.dev)
 </a>
